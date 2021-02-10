@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Jan 26 16:16:15 2021 
+Best design point: 1
+Design specs: 
+	ID_VDS	corner	Nominal - 
+	Sqrt_ID_VGS	corner	Nominal - 
+	SQRT_ID		Error	No
+Design parameters: 
+	vds		0
+	vgs		0
+
+Interactive.4
+Number of points completed: 36
+Number of simulation errors: 36
+Interactive.4 completed. 
+Current time: Tue Jan 26 16:19:27 2021 

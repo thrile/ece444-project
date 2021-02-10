@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Jan 26 15:48:43 2021 
+Best design point: 1
+Design specs: 
+	ID_VDS	corner	Nominal - 
+Design parameters: 
+	vds		0
+	vgs		0
+
+Interactive.2
+Number of points completed: 6
+Number of simulation errors: 0
+Interactive.2 completed. 
+Current time: Tue Jan 26 15:48:59 2021 

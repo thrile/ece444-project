@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--StateFileType saveLoadState-->
+<topLevel>
+    <SimpleProp Name="stateFileVersion" Value="@(#)$CDS: virtuoso version 6.1.8-64b 03/06/2019 04:04 (ip-172-18-22-55) $" Type="string" />
+    <SimpleProp Name="currentHistory" Value="/home/tdriley/simulation/ece444-labs/nmos_tb/adexl/results/data/Interactive.5" Type="stringValue" />
+    <SimpleProp Name="currentContext" Value="__historyDirStr__/psf/Sqrt_ID_VGS/psf" Type="stringValue" />
+    <IndexedProp Name="resultsDirMappingList">
+        <SimpleProp Name="__resDirStr_0" Value="/home/tdriley/simulation/ece444-labs/nmos_tb/adexl/results/data/Interactive.5/psf/ID_VDS/psf" Type="stringValue" />
+        <SimpleProp Name="__resDirStr_1" Value="/home/tdriley/simulation/ece444-labs/nmos_tb/adexl/results/data/Interactive.5/psf/Sqrt_ID_VGS/psf" Type="stringValue" />
+    </IndexedProp>
+    <IndexedProp Name="graphFileList">
+        <SimpleProp Value="lab1_nmos_0.grf" Type="stringValue" />
+        <SimpleProp Value="lab1_nmos_1.grf" Type="stringValue" />
+    </IndexedProp>
+</topLevel>

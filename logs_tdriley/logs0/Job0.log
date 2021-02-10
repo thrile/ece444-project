@@ -1,0 +1,118 @@
+\# Program start time:     UTC 2021.02.01 20:18:32.911
+\# Local time: EST (UTC-05:00) 2021.02.01 15:18:32.911
+\o Program:		@(#)$CDS: virtuoso version 6.1.8-64b 03/06/2019 04:04 (ip-172-18-22-55) $
+\o Hierarchy:		/CMC/tools/cadence/IC06.18.020_lnx86/tools.lnx86/dfII/
+\o Sub version:		sub-version  IC6.1.8-64b.500.2  (64-bit addresses)
+\# Command line:	/CMC/tools/cadence/IC06.18.020_lnx86/tools.lnx86/dfII/bin/64bit/virtuoso -noautostart -mpssession virtuoso23958 -mpshost iccad2.uwaterloo.ca -davinciService DaVinciService_23958_1612210705 -log /home/tdriley/ece444/gpdk45/logs_tdriley/logs0/Job0.log -licenseLockFileName /home/tdriley/ece444/gpdk45/.tmp_tdriley/.iccad2.uwaterloo.ca_23958 -interactiveA -interactiveE -interactiveRTT -nograph -nostdin -axlChildIdFlag 0
+\# Host name (type):	iccad2.uwaterloo.ca (x86_64)
+\# Operating system:	Linux 3.10.0-1127.el7.x86_64 #1 SMP Wed Apr 1 12:25:50 CDT 2020
+\# Linux /etc/issue:	\S
+\# Linux /etc/issue:	Kernel \r on an \m
+\# X display name (WxH):	:95 (1024x868)
+\# Available geometry:			TL(0:0) BR(1023:867)
+\# X server:			RealVNC Ltd (VNC nograph server, PID 25472)
+\# Depth of Visual (Root):	16 (16)
+\# Number of Planes Used:	16
+\# X version:		11.0 (vendor release 3370)
+\# X resource pool:	base 0x800000, mask 0x3fffff (4194303), shift 0
+\# 			current id 0x0, current max 0x3ffffa (4194298)
+\# Max data seg size:	     unlimited
+\# Max process size:	     unlimited
+\# Initial sbrk value:	        526 MB
+\# Available memory:	     26,517 MB
+\# System memory:	     31,970 MB
+\# Maximum memory size:	     31,587 MB
+\# Max mem available:	     26,659 MB
+\# Initial memory used:	        142 MB
+\#        process size:	      1,335 MB
+\# Thread usage limits (effective/default):	maxthreads 4096/4096 maxload 4.00/4.00
+\# Qt version:		5.9.1
+\# Window Manager:	other
+\# User Name:		tdriley
+\o Working Directory:	iccad2.uwaterloo.ca:/home/tdriley/ece444/gpdk45
+\# Process Id:		25490
+\o 
+\o COPYRIGHT (C) 1992-2019  CADENCE DESIGN SYSTEMS INC.  ALL RIGHTS RESERVED.
+\o           (C) 1992-2019  UNIX SYSTEMS Laboratories INC.,
+\o                          Reproduced with permission.
+\o 
+\o This Cadence Design Systems program and online documentation are
+\o proprietary/confidential information and may be disclosed/used only
+\o as authorized in a license agreement controlling such use and disclosure.
+\o 
+\o           RESTRICTED RIGHTS NOTICE (SHORT FORM)
+\o Use/reproduction/disclosure is subject to restriction
+\o set forth at FAR 1252.227-19 or its equivalent.
+\o Loading geView.cxt 
+\o Loading menuBuilder.cxt 
+\o Loading schView.cxt 
+\o Loading selectSv.cxt 
+\o Loading pvsui.cxt.
+\o Loading wireEdit.cxt 
+\o Loading pte2.cxt 
+\o Loading xlUI.cxt 
+\o Loading auCore.cxt 
+\o Loading vhdl.cxt 
+\o Loading seismic.cxt 
+\o Loading ci.cxt 
+\o Loading layers.cxt 
+\o Loading ams.cxt 
+\o Loading oasis.cxt 
+\o Loading analog.cxt 
+\o Loading asimenv.cxt 
+\o Loading dal.cxt 
+\o Loading awv.cxt 
+\o Loading socket.cxt 
+\o Loading par.cxt 
+\o Loading alvs.cxt 
+\o Loading caa.cxt 
+\o Loading amps.cxt 
+\o Loading adexlCore.cxt 
+\o Loading adexl.cxt 
+\o *Info*    Exporting services from client ... 
+\o 
+\o Loading cli.cxt 
+\o Loading cle.cxt 
+\o INFO (ELI-00302) Connecting to parent process (session=virtuoso23958, host=iccad2.uwaterloo.ca). ICRP is turned on. Total timeout is 180 seconds. Connection timeout is 90 seconds.
+\o INFO (ELI-00303) Step 1: Connecting to parent. Time spent is 0 seconds.
+\o INFO (ELI-00304) The registration of the child 25490 within 90 seconds is being processed...
+\o INFO (ELI-00305) The result of registration is true. Time spent is 0 seconds.
+\o INFO (ELI-00308) The connection has ended. Result is true. Total time spent is 0 seconds.
+\# Memory report: using         273 MB, process size 1,559 MB at UTC 2021.02.01 20:18:36.598
+\o // 
+\o // 
+\o //          The Cadence GPDK045 
+\o //          45nm CMOS 11M/2P Generic PDK 
+\o //            gpdk045   v6.0: The Virtuoso technology library 
+\o //            gsclib045 v4.4: The multi-Vt standard cell library set 
+\o //            giolib045 v3.3: The IO and bondpad cells library 
+\o // 
+\o // 
+\o END OF SKILL CUSTOMIZATION
+\o END OF Cadence BINDKEY CUSTOMIZATION
+\o END OF USER CUSTOMIZATION
+\o //
+\o //  Calibre Skill Interface * (v2019.1_37.21) *
+\o //
+\o //                 Copyright Mentor Graphics Corporation 2005
+\o //                             All Rights Reserved.
+\o //         THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+\o //            WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION
+\o //              OR ITS LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+\o //
+\o //
+\o END OF Calibre CUSTOMIZATION
+\o *Info*    Client has finished starting ... 
+\o 
+\p > 
+\a _treeSetOpcGUI(t)
+\r t
+\# Available memory:         26,389 MB at UTC 2021.02.01 20:18:42.973
+\# Memory report: Maximum memory size now 26,675 MB at UTC 2021.02.01 20:18:42.973
+\# Thread usage report: 5 active threads, active load 1.00 at UTC 2021.02.01 20:18:42.973
+\o Job 0 timed out after no activity in 300 seconds.
+\o Loading simui.cxt 
+\o 
+\o *Info*    Received signal SIGTERM.
+\o 
+\o 
